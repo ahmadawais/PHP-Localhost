@@ -1,0 +1,25 @@
+{
+	"name": "ahmadawais/php-localhost",
+	"description": "PHP Class to check if it is localhost.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Ahmad Awais",
+			"email": "me@AhmadAwais.com"
+		}
+	],
+	"config": {
+		"sort-packages": true,
+		"optimize-autoloader": true
+	},
+	"autoload": {
+		"psr-4": {
+			"Localhost\\": "src/"
+		}
+	},
+	"require": {},
+	"keywords": [
+		"localhost",
+		"is local host"
+	]
+}

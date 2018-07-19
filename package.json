@@ -1,0 +1,23 @@
+{
+  "name": "PHP-Localhost",
+  "version": "1.0.0",
+  "description": "> PHP Class to check if it is localhost.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadawais/PHP-Localhost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadawais/PHP-Localhost/issues"
+  },
+  "homepage": "https://github.com/ahmadawais/PHP-Localhost#readme",
+  "devDependencies": {
+    "release-it": "^7.4.7"
+  }
+}
